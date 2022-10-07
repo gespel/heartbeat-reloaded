@@ -1,5 +1,6 @@
 class Main {
-    fun main() {
-        println("Hello, Kotlin/Native!")
-    }
+
+}
+fun main() {
+    println("Hello, Kotlin/Native!")
 }
